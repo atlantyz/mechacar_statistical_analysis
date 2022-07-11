@@ -1,6 +1,6 @@
 # mechacar_statistical_analysis
 
-#Deliverable 1: Linear Regression to Predict MPG
+Deliverable 1: Linear Regression to Predict MPG
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 Vehicle length and ground clearance. 
@@ -11,7 +11,7 @@ The slope of the linear model is not zero because the R-squared is not zero.
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 This linear model predicts mpg of MechaCar prototypes effectively because the r value is greater than .5. 
 
-#Deliverable 2: Summary Statistics on Suspension Coils
+Deliverable 2: Summary Statistics on Suspension Coils
 
 <img width="337" alt="Screen Shot 2022-07-11 at 2 21 33 AM" src="https://user-images.githubusercontent.com/79942792/178210252-a0fbfede-0499-4656-b5b8-549ba92114bc.png">
 
@@ -19,7 +19,7 @@ This linear model predicts mpg of MechaCar prototypes effectively because the r 
 
 
 
-#Deliverable 3: T-tests on Suspension Coils
+Deliverable 3: T-tests on Suspension Coils
 
 <img width="462" alt="Screen Shot 2022-07-11 at 2 35 39 AM" src="https://user-images.githubusercontent.com/79942792/178212489-753a0dc0-d792-45b9-8042-46efea97d707.png">
 
